@@ -1,0 +1,6 @@
+Websocket message when a new contact needs to be screened:
+
+{ 
+  'identifier': '{"channel":"Turbo::UpdatesChannel","signed_stream_name":"IloybGtP...fa664798"}',
+  'message': '<template data-page-update="replace#clearances_button">\n  <div class="u-relative" id="clearances_button">\n    <div class="clearances__trigger align--center push--bottom">\n      <a data-controller="hotkey" data-hotkey="=" class="btn btn--small btn--icon btn--icon-screener btn--primary clearances__unread" role="button" href="/clearances">Screen 1 first-time sender</a>\n    </div>\n</div>\n\n</template>'
+}
